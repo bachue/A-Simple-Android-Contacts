@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contacts</string>
+    <string name="view">View</string>
+    <string name="show">Show</string>
+    <string name="menu">Menu</string>
+    <string name="add_new_contact">Add new contact</string>
+    <string-array name="views">
+        <item>All calls</item>
+        <item>Incoming calls</item>
+        <item>Outgoing calls</item>
+        <item>Missed calls</item>
+    </string-array>
+
+</resources>
