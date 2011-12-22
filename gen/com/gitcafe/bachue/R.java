@@ -20,17 +20,18 @@ public final class R {
     }
     public static final class id {
         public static final int addcontactlist=0x7f070000;
-        public static final int addnewcontact=0x7f07000b;
-        public static final int callhistorylist=0x7f070008;
+        public static final int addnewcontact=0x7f07000c;
+        public static final int callhistorylist=0x7f070009;
         public static final int emailaddress=0x7f070002;
         public static final int emailtypespinner=0x7f070001;
-        public static final int peoplelist=0x7f070009;
-        public static final int phonenumber=0x7f070006;
-        public static final int phonetypespinner=0x7f070005;
-        public static final int show=0x7f07000a;
+        public static final int peoplelist=0x7f07000a;
+        public static final int phonenumber=0x7f070007;
+        public static final int phonetypespinner=0x7f070006;
+        public static final int selectimage_button=0x7f070005;
+        public static final int show=0x7f07000b;
         public static final int textview_familyname=0x7f070004;
         public static final int textview_givenname=0x7f070003;
-        public static final int viewspinner=0x7f070007;
+        public static final int viewspinner=0x7f070008;
     }
     public static final class layout {
         public static final int addcontact=0x7f030000;
@@ -46,7 +47,7 @@ public final class R {
         public static final int optionmenu=0x7f060001;
     }
     public static final class string {
-        public static final int add=0x7f04000b;
+        public static final int add=0x7f04000c;
         public static final int add_new_contact=0x7f040004;
         public static final int app_name=0x7f040000;
         public static final int email=0x7f040009;
@@ -56,7 +57,8 @@ public final class R {
         public static final int menu=0x7f040003;
         public static final int phone=0x7f040007;
         public static final int phone_type=0x7f040008;
-        public static final int remove=0x7f04000c;
+        public static final int remove=0x7f04000d;
+        public static final int select_image=0x7f04000b;
         public static final int show=0x7f040002;
         public static final int view=0x7f040001;
     }
