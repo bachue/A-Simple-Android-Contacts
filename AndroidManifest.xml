@@ -18,6 +18,7 @@
         </activity>
         <activity android:name=".CallHistoryTabActivity" />
         <activity android:name=".PeopleTabActivity" />
+        <activity android:name=".AddContactActivity"></activity>
     </application>
     <uses-permission android:name="android.permission.READ_CONTACTS" />
 </manifest>
